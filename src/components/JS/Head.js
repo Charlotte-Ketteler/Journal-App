@@ -1,3 +1,4 @@
+import "../CSS/Head.css";
 export default function Head(){
     return (
         <>

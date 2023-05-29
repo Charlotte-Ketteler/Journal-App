@@ -1,3 +1,5 @@
+import "../CSS/Form.css";
+
 export default function Form({ name, value, name1}){
     return (
     <div>

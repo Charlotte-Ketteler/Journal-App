@@ -1,4 +1,4 @@
-import './components/CSS/Footer.css';
+
 import './components/CSS/Button.css';
 import './App.css';
 import Form from './components/JS/Form';

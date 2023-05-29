@@ -1,0 +1,35 @@
+.allEntries{
+    color:  #ff4a11;
+  }
+  
+  .position__H2--Form{
+    display: flex;
+    justify-content: center;
+    font-size: medium;
+    margin: 120px 20px 0px 20px;
+    }
+    
+    .hr__style{
+        border-color:#e4e8f0;
+        margin-left: 15px;
+        margin-right: 15px;
+      }
+      
+      .article__style{
+      margin: 30px 15px 150px 15px;
+      }
+      
+      .date__style{
+        display: flex;
+        justify-content: center;
+        font-size: medium;
+        margin-top: 20px
+      }
+      
+      svg{
+        position: absolute;
+        margin-left: 300px;
+        margin-top: -40px;
+      z-index: 0;
+        
+      }

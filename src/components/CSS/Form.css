@@ -1,0 +1,22 @@
+.position__Form{
+    margin: 30px 15px 10px 15px;
+   
+  }
+  
+  
+  .form__Style--Motto{
+    width: 90%;
+    height: 100px;
+    border-color:#e4e8f0;
+    border-radius: 5px;
+    border-style: solid;
+  }
+  
+  .form__Style--Notes{
+    width: 90%;
+    height: 150px;
+    border-color:#e4e8f0;
+    border-radius: 5px;
+    border-style: solid;
+  }
+  

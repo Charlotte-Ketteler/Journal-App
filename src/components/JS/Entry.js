@@ -1,3 +1,5 @@
+import '../CSS/Entry.css';
+
 export default function Entry({children, src}){
     return <section>
          <button className="create__button" type="submit"><p>Create</p></button>

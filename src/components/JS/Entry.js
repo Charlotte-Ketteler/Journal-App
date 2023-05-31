@@ -1,3 +1,5 @@
+
+import StarFilledFunction from './StarFilledFunction';
 import '../CSS/Entry.css';
 import Tabs from "./Tabs";
 export default function Entry(){
@@ -8,22 +10,7 @@ export default function Entry(){
         
         <h2 className="date__style">FEB 27, 2028 </h2>
         <h3>"My favourite drink"</h3>
-        <svg
-          width="24"
-          height="24"
-          viewBox="0 0 24 24"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"
-            fill="#FF4A11"
-            stroke="#FF4A11"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
-        </svg>
+        <StarFilledFunction/>
         <p>Moscow Mule:
             <ul>
             <li> 320 ml Ginger Beer,</li> <li>5cl Wodka,</li><li>ice cubes,</li>  <li>three slices of Cucumber and</li>  <li>half a lime. </li>

@@ -1,6 +1,6 @@
 import "../CSS/Form.css";
 
-export default function Form({ name, value, name1}){
+export default function Form({ name, value}){
     return (
     <div>
     <h2 className="position__H2--Form">NEW ENTRY</h2>
